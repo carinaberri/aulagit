@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-teste alterado 
-=======
 teste
->>>>>>> teste
